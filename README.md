@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Goce Arsoski
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning PHP Laravel, previously Ruby on Rails.
+- 🌱 I’m currently working PHP Laravel, previously Ruby on Rails.
 <!--- - 💞️ I’m looking to collaborate on RoR projects.
 - 📫 How to reach me ... --->
 
